@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title> Llosa, Chester  | webpage</title>
+   <!-- https://htmlpreview.github.io/? -->
+</head>
+
+<body>
+    <header>
+        <div>
+            <h2>Chester.</h2>
+        </div>
+        <div>
+            <ul>
+                <li><a href="MainBio.html" target="_self">HOME</a></li>
+                <li><a href="ProfileBio.html" target="_self">PROFILE</a></li>
+                <li><a href="Ches.html" target="_self">SONG</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <div>
+        <h2>About Chester</h2>
+        <p><strong>Name:</strong> Chester Ain M. Llosa</p>
+        <p><strong>CYS:</strong> BSCS 2E</p>
+        <p><strong>SUBJECT:</strong> DC 101 - Web Development</p>
+        <p><strong>INSTRUCTOR:</strong> Engr. John Eugene B. Fortunado</p>
+        <p><strong>Email:</strong> llosachester10@gmail.com</p>
+        <h4>SKILLS</h4>
+        <p><strong>Technical Skills:</strong> </strong>
+            <ul>
+                <li>
+                    HTML and CSS
+                </li>
+                <li>
+                    </ul>
+        </p>
+        <p><strong>Soft Skills:</strong>
+            <ul>
+                </li>
+                <li>
+
+                    Quick Learner
+                </li>
+                    <li>
+                        Great Communicaion Skills
+                </li>
+            </ul>
+        </p>
+        <h4>Hobbies and Interest</h4>
+        <ul>
+        </li>
+            <li>
+                Playing Basketball
+            </li>
+                <li>
+                    Playing Online Games
+
+
+        
